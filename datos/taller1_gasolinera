@@ -1,0 +1,13 @@
+tipo:diesel:7500:8000.0
+tipo:premium:15000:466983.0
+tipo:extra:9700:1254862.0
+tipo:regular:7000:456389.0
+surtidor:Juan:diesel:0.0:premium:0.0:extra:0.0:regular:0.0
+surtidor:Camilo:diesel:0.0:premium:0.0:extra:0.0:regular:0.0
+surtidor:Viviana:diesel:0.0:premium:0.0:extra:0.0:regular:0.0
+surtidor:Nicolas:diesel:0.0:premium:0.0:extra:0.0:regular:0.0
+empleado:Andres:0
+empleado:Camilo:0
+empleado:Viviana:0
+empleado:Juan:0
+empleado:Nicolas:0
